@@ -2,5 +2,6 @@
 name = "quickstart"
 version = "0.1.0"
 dependencies = [
+    "fastapi[standard]>=0.115.12",
     "openai-agents>=0.0.16",
 ]
